@@ -1,0 +1,4 @@
+server-tools https://github.com/Vauxoo/server-tools.git
+addons-vauxoo https://github.com/vauxoo/addons-vauxoo.git
+crm https://github.com/vauxoo/crm.git
+rma https://github.com/vauxoo/rma.git
